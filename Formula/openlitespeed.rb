@@ -6,7 +6,7 @@ class Openlitespeed < Formula
     url "https://openlitespeed.org/packages/openlitespeed-1.4.41.src.tgz"
     sha256 "ce5f82f4b048f7075bdc55723959924c00cda958a928c592fb129ba84b32f741"
     head "https://github.com/litespeedtech/openlitespeed.git"
-    version "1.4.41"
+    version "1.7.6"
 
     option "with-luajit", "use liblua (located in directory DIR, if supplied) for compiling mod_lua module.  [default=no]"
     option "with-debug", "Enable debugging symbols (Debug is disabled by default)"
