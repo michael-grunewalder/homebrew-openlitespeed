@@ -4,7 +4,7 @@ class Openlitespeed < Formula
     desc "OpenLiteSpeed is a high-performance, lightweight, open source HTTP server developed and copyrighted by LiteSpeed Technologies. Users are free to download, use, distribute, and modify OpenLiteSpeed and its source code in accordance with the precepts of the GPLv3 license."
     homepage "https://openlitespeed.org/"
     url "https://openlitespeed.org/packages/openlitespeed-1.7.6.src.tgz"
-    sha256 "ce5f82f4b048f7075bdc55723959924c00cda958a928c592fb129ba84b32f741"
+    sha256 "c2f48e81a21f6c0bafd0b7e270f8ac2084efda6ab3e855abb8a9dd88d31b3ccb"
     head "https://github.com/litespeedtech/openlitespeed.git"
     version "1.7.6"
 
